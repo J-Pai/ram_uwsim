@@ -1,9 +1,9 @@
 # ram_uwsim
-NOTE: Make sure you are using Ubuntu 14.04 LTS <br />
+NOTE: Make sure you are using Ubuntu 14.04 LTS and you have git installed <br />
 First clone this repository. Then change your current directory to the newly created repository's directory.
 Commandlist:
 ```bash
-git clone (THIS REPO URL)
+git clone https://github.com/J-Pai/ram_uwsim.git
 cd ram_uwsim
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 0xB01FA116

@@ -1,5 +1,5 @@
 # ram_uwsim
-NOTE: Make sure you are using Ubuntu 14.04 LTS and you have git installed <br />
+NOTE: Make sure you are using Ubuntu 14.04 LTS and you have git installed. <br />
 First clone this repository. Then change your current directory to the newly created repository's directory. <br />
 Commandlist:
 ```bash

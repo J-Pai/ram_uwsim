@@ -12,8 +12,8 @@ sudo apt-get install ros-indigo-desktop-full
 sudo apt-get install python-rosinstall
 sudo apt-get install ros-indigo-uwsim-bullet ros-indigo-uwsim-osgbullet ros-indigo-uwsim-osgocean ros-indigo-uwsim-osgworks 
 sudo apt-get install ros-indigo-visualization-osg
-echo 'source /opt/ros/indigo/setup.bash' >> ~/.bashrc
-echo 'source $(pwd)/devel/setup.bash' >> ~/.bashrc
+echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
+echo "source $(pwd)/devel/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 sudo rosdep init
 rosdep update

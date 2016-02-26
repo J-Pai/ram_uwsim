@@ -22,5 +22,5 @@ catkin_make install
 catkin_make
 ```
 SOURCE: A good chunk of the code from the underwater_simulation folder is directly taken from the main uwsim repository. The modifications done to uwsim here is primarily meant for use with the Robotics@Maryland team. <br />
-More information on uwsim can be found here: <http://www.irs.uji.es/uwsim/>
+More information on uwsim can be found here: <http://www.irs.uji.es/uwsim/> <br />
 The main repository can be found here: <https://github.com/uji-ros-pkg/underwater_simulation>

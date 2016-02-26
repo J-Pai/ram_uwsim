@@ -1,6 +1,6 @@
 # ram_uwsim
 NOTE: Make sure you are using Ubuntu 14.04 LTS and you have git installed <br />
-First clone this repository. Then change your current directory to the newly created repository's directory.
+First clone this repository. Then change your current directory to the newly created repository's directory. <br />
 Commandlist:
 ```bash
 git clone https://github.com/J-Pai/ram_uwsim.git
@@ -21,3 +21,6 @@ rosdep install --from-paths src --ignore-src --rosdistro indigo -y
 catkin_make install
 catkin_make
 ```
+SOURCE: A good chunk of the code from the underwater_simulation folder is directly taken from the main uwsim repository. The modifications done to uwsim here is primarily meant for use with the Robotics@Maryland team. <br />
+More information on uwsim can be found here: <http://www.irs.uji.es/uwsim/>
+The main repository can be found here: <https://github.com/uji-ros-pkg/underwater_simulation>

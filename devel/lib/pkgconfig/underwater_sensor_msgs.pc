@@ -1,0 +1,8 @@
+prefix=/home/user/ram_uwsim/devel
+
+Name: underwater_sensor_msgs
+Description: Description of underwater_sensor_msgs
+Version: 1.4.1
+Cflags: -I/home/user/ram_uwsim/devel/include
+Libs: -L/home/user/ram_uwsim/devel/lib 
+Requires: message_runtime roscpp

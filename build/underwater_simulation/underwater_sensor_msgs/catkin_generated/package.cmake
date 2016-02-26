@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "underwater_sensor_msgs")
+set(underwater_sensor_msgs_MAINTAINER "Mario Prats <marioprats@gmail.com>, Javier Perez <perezsolerj@gmail.com>")
+set(underwater_sensor_msgs_DEPRECATED "")
+set(underwater_sensor_msgs_VERSION "1.4.1")
+set(underwater_sensor_msgs_BUILD_DEPENDS "roscpp" "message_generation" "std_msgs" "visualization_msgs")
+set(underwater_sensor_msgs_RUN_DEPENDS "roscpp" "message_runtime" "std_msgs" "visualization_msgs")
+set(underwater_sensor_msgs_BUILDTOOL_DEPENDS "catkin")

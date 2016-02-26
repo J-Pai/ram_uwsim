@@ -1,0 +1,6 @@
+- other: {local-name: /opt/ros/indigo/share/ros}
+- other: {local-name: /opt/ros/indigo/share}
+- other: {local-name: /opt/ros/indigo/stacks}
+- setup-file: {local-name: /opt/ros/indigo/setup.sh}
+- git: {local-name: src/underwater_simulation, 
+        uri: 'https://github.com/uji-ros-pkg/underwater_simulation.git', version: indigo-devel}

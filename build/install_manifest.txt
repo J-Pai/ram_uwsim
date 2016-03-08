@@ -78,6 +78,7 @@
 /home/user/ram_uwsim/install/include/uwsim/uwsim/PhysicsBuilder.h
 /home/user/ram_uwsim/install/include/uwsim/uwsim/SimulatorConfig.h
 /home/user/ram_uwsim/install/include/uwsim/uwsim/SimulatedDevice.h
+/home/user/ram_uwsim/install/include/uwsim/uwsim/SimRawData.h
 /home/user/ram_uwsim/install/include/uwsim/uwsim/VirtualCamera.h
 /home/user/ram_uwsim/install/include/uwsim/uwsim/ROSInterface.h
 /home/user/ram_uwsim/install/include/uwsim/uwsim/osgOceanScene.h

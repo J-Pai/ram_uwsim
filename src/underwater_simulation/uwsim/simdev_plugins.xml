@@ -20,5 +20,12 @@
   Drege Tool
   </description>
   </class>
+  
+  <class name="SimRawData_Factory" type="SimRawData_Factory" 
+    base_class_type="uwsim::SimulatedDeviceFactory">
+  <description>
+  Meant to display imu data with no modifications.
+  </description>
+  </class>
 
 </library>

@@ -190,4 +190,5 @@ echoROS?
 <!ELEMENT ForceSensorROS (name, topic, rate?)>
 
 <!ELEMENT DredgeTool (name, target, offsetp, offsetr)>
+<!ELEMENT SimRawData (name,relativeTo,position?,orientation?)>
 
